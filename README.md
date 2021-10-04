@@ -1,0 +1,2 @@
+# largular
+Laravel + Angular
